@@ -14,5 +14,15 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #0074e4;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #0064d2;
+}
+
+.btn-danger {
+    background-color: #d20000;
 }

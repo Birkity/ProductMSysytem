@@ -83,5 +83,3 @@ C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\P
 C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\ref\ProductManagementSystem.dll
 C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\ProductManagementSystem.RazorAssemblyInfo.cache
 C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\ProductManagementSystem.RazorAssemblyInfo.cs
-C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\USER\Desktop\Yenetta_project\ProductManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\ProductManagementSystem.bundle.scp.css

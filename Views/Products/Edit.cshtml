@@ -1,8 +1,8 @@
-﻿@model Product
+﻿@model ProductManagementSystem.Models.Product
 
-<h1>Create</h1>
+<h1>Edit</h1>
 
-<form asp-action="Create">
+<form asp-action="Edit">
     <div class="form-group">
         <label asp-for="Name" class="control-label"></label>
         <input asp-for="Name" class="form-control" />
@@ -24,6 +24,6 @@
         <span asp-validation-for="QuantityInStock" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <input type="submit" value="Create" class="btn btn-primary" />
+        <input type="submit" value="Save" class="btn btn-primary" />
     </div>
 </form>

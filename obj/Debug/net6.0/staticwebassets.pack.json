@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Yenetta_project\\ProductManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProductManagementSystem.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ProductManagementSystem.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\USER\\Desktop\\Yenetta_project\\ProductManagementSystem\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
