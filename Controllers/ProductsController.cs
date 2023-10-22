@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProductManagementSystem.Models;
-using ProductManagementSystem.Services;
 
 namespace ProductManagementSystem.Controllers
 {

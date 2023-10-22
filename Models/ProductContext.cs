@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProductManagementSystem.Models;
 
-namespace ProductManagementSystem.Services
+namespace ProductManagementSystem.Models
 {
     public class ProductContext : DbContext
     {
